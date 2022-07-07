@@ -12,7 +12,7 @@ h1 {
     margin: 0px;
     padding: 90px;
     font-family: 'Roboto Slab', serif;
-    background-image: url(./images/donation13.jpg);
+    background-image: url("/images/donation13.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
