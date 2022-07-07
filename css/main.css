@@ -4,6 +4,9 @@ body {
     padding: 0%;
 }
 
+h1 {
+    text-align: center;
+}
 
 .banner-top {
     margin: 0px;
@@ -11,11 +14,24 @@ body {
     font-family: 'Roboto Slab', serif;
     background-image: url(/images/donation13.jpg);
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: cover;
     display: flex;
 
 }
 
+
 .banner-container {
     width: 50%;
+
 }
+
+.donate-button {
+    margin: 0%;
+    color: white;
+    background-image: linear-gradient(rgb(222, 152, 21), rgb(204, 90, 29));
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-weight: 700;
+}
+
+/* banner css */
